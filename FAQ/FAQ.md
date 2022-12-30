@@ -2,13 +2,11 @@
 
 Курс поділений на теми. В більшості тем є елемент завдання.
 
-![](vertopal_998ed95874df4b2cabaa70ce12b06e48/media/image1.png){width="6.6875in"
-height="3.2083333333333335in"}
+![](vertopal_998ed95874df4b2cabaa70ce12b06e48/media/image1.png)
 
 Розкривши його можна побачити формулювання завдання:
 
-![](vertopal_998ed95874df4b2cabaa70ce12b06e48/media/image2.png){width="6.6875in"
-height="3.65625in"}
+![](vertopal_998ed95874df4b2cabaa70ce12b06e48/media/image2.png)
 
 А ви вже перевірили мою роботу?
 
@@ -18,8 +16,7 @@ height="3.65625in"}
 
 Дійсно, де же це узнати? Може в Журналі оцінок?
 
-![](vertopal_998ed95874df4b2cabaa70ce12b06e48/media/image3.jpeg){width="6.6875in"
-height="1.28125in"}
+![](vertopal_998ed95874df4b2cabaa70ce12b06e48/media/image3.jpeg)
 
 Як отримати 60 балів? А 90? А 100?
 
@@ -53,8 +50,7 @@ height="1.28125in"}
 В більшості випадків студенти самі реєструються на занятті за допомогою
 елемента Відвідування.
 
-![](vertopal_998ed95874df4b2cabaa70ce12b06e48/media/image4.png){width="5.979166666666667in"
-height="1.59375in"}
+![](vertopal_998ed95874df4b2cabaa70ce12b06e48/media/image4.png)
 
 А можна не відвідувати заняття? Це ж все одно дистанціонка.
 
@@ -98,8 +94,7 @@ height="1.59375in"}
 розраховувати тільки під час заняття. Іншими словами: ви пишете, коли
 удобно вам, я відповідаю, коли удобно мені.
 
-![](vertopal_998ed95874df4b2cabaa70ce12b06e48/media/image5.png){width="5.84375in"
-height="1.0104166666666667in"}
+![](vertopal_998ed95874df4b2cabaa70ce12b06e48/media/image5.png)
 
 Ваші завдання нецікаві. Можна я щось своє буду робити?
 
