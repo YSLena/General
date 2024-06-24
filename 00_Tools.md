@@ -39,4 +39,6 @@ https://www.anaconda.com
 
 Почитайте це, там докладно описано як працювати з Юпитером:
 
+https://mikrotik.kpi.ua/index.php/courses-list/ml/121-using-jupyter-notepad-lecture-2
+
 https://highload.today/jupyter-notebook/
